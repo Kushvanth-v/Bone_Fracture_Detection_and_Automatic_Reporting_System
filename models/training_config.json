@@ -1,0 +1,12 @@
+{
+  "trained_accuracy": 99.4,
+  "trained_at": "2026-04-20 11:00:44.740578",
+  "classes": [
+    "Normal",
+    "Transverse",
+    "Oblique",
+    "Spiral",
+    "Comminuted"
+  ],
+  "feature_dim": 144
+}

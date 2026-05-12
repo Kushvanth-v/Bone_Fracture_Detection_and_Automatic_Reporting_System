@@ -1,0 +1,28 @@
+[
+  {
+    "id": "01f086c2",
+    "timestamp": "2026-05-12T10:11:09.934075",
+    "filename": "download_5.jpeg",
+    "patient_age": 45,
+    "patient_symptoms": "Pain and swelling in wrist",
+    "trauma_history": 0,
+    "fracture_type": "Spiral",
+    "severity": "High",
+    "location": "Wrist",
+    "classification_confidence": 74.0,
+    "detection_confidence": 38.0,
+    "risk_score": 8.8,
+    "inference_ms": 1367.8,
+    "segmentation_coverage": 18.2,
+    "recommendation": "Urgent surgical evaluation required.",
+    "estimated_accuracy": 87.62,
+    "reported_accuracy": 95.6,
+    "roc_auc": 97.46,
+    "cohen_kappa": 0.7313,
+    "weighted_f1": 95.85,
+    "weighted_precision": 96.17,
+    "weighted_recall": 95.6,
+    "result_image": "/static/results/result_01f086c2.png",
+    "original_image": "/static/uploads/01f086c2_download_5.jpeg"
+  }
+]
